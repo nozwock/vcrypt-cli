@@ -2,4 +2,4 @@
 A Qol wrapper over veracrypt cli
 
 
-**⚠️ Dead for sure ⚠️**
+**⚠️ 99.9% Dead? ⚠️**
